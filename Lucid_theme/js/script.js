@@ -64,8 +64,4 @@ console.log($(window).width())
         }
       ],
     });
-    
-    
-
-    
 });

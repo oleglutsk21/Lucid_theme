@@ -12223,7 +12223,7 @@ body {
   }
 
   .lead {
-    font-size: calc(1.26563rem + 0.1875vw);
+    font-size: calc(1.26562rem + 0.1875vw);
   }
 
   .display-1 {
@@ -12243,7 +12243,7 @@ body {
   }
 
   .blockquote {
-    font-size: calc(1.26563rem + 0.1875vw);
+    font-size: calc(1.26562rem + 0.1875vw);
   }
 
   .close {
